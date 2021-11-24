@@ -3,3 +3,4 @@ Orange
 Mango
 Apple
 Pomegranates
+Strawberry
