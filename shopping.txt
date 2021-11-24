@@ -2,4 +2,4 @@ Banana
 Orange
 Mango
 Apple
-Pomegranate
+Pomegranates
